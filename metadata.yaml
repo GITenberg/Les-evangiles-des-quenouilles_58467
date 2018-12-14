@@ -1,5 +1,8 @@
 _repo: Les-evangiles-des-quenouilles_58467
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58467-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '49562'
     url: http://www.gutenberg.org/2009/agents/49562
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58467#Les-evangiles-des-quenouilles
 gutenberg_bookshelf:
 - FR Humour
 - FR Nouveautés
